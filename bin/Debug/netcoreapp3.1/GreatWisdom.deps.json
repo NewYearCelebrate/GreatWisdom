@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "GreatWisdom/1.0.0": {
         "dependencies": {
-          "Json.Net": "1.0.25"
+          "Json.Net": "1.0.25",
+          "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "GreatWisdom.dll": {}
@@ -19,6 +20,14 @@
           "lib/netstandard2.0/Json.Net.dll": {
             "assemblyVersion": "1.0.25.1",
             "fileVersion": "1.0.25.1"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
           }
         }
       }
@@ -36,6 +45,13 @@
       "sha512": "sha512-Aj5kjteD5mBmUSL0D64R9SzuQuM/dtHV2JcbVJ1iGOZjp3hGO4eoWY/D5Nzxe+kR15KAERQS1e2mU7mFjwKyDg==",
       "path": "json.net/1.0.25",
       "hashPath": "json.net.1.0.25.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     }
   }
 }
