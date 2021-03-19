@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\GreatWisdom\bin\Debug\netcoreapp3.1\GreatWisdom.exe
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.csprojAssemblyReference.cache
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.AssemblyInfo.cs
+C:\Users\user\source\repos\GreatWisdom\bin\Debug\netcoreapp3.1\GreatWisdom.deps.json
+C:\Users\user\source\repos\GreatWisdom\bin\Debug\netcoreapp3.1\GreatWisdom.runtimeconfig.json
+C:\Users\user\source\repos\GreatWisdom\bin\Debug\netcoreapp3.1\GreatWisdom.runtimeconfig.dev.json
+C:\Users\user\source\repos\GreatWisdom\bin\Debug\netcoreapp3.1\GreatWisdom.dll
+C:\Users\user\source\repos\GreatWisdom\bin\Debug\netcoreapp3.1\GreatWisdom.pdb
+C:\Users\user\source\repos\GreatWisdom\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.csproj.CopyComplete
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.dll
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.pdb
+C:\Users\user\source\repos\GreatWisdom\obj\Debug\netcoreapp3.1\GreatWisdom.genruntimeconfig.cache

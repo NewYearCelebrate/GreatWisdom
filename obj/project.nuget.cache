@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQJIywN1n1vE2KCw5HS0YdZRHqkGGo5MGkcRtier8S5yHVeA9qNC+ZFn5g2HWl0i5SMv72Upf3uV0WmPRmDZRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\GreatWisdom\\GreatWisdom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\json.net\\1.0.25\\json.net.1.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
